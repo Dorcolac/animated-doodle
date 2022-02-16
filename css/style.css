@@ -5,3 +5,8 @@ body {
 * {
     color: white;
 }
+
+p {
+    color: red;
+    text-decoration: underline;
+}
