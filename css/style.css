@@ -10,3 +10,9 @@ p {
     color: red;
     text-decoration: underline;
 }
+
+
+li {
+    padding: 20px;
+    color: green;
+}
